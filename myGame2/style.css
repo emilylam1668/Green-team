@@ -1,0 +1,39 @@
+body {
+    margin-left: 4.5%;
+    background-image: url('assets/Sky_Blue.png');
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 70px;
+    margin: 7px;
+    margin-bottom: 2px;
+    color: rgba(77, 188, 93, 1);
+    text-shadow: 3px 3px #2b6834;
+}
+p {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 18px;
+}
+img {
+    height: 70px;
+}
+#dante1 {
+    float: left;
+}
+#dante2 {
+    float: right;
+    padding-right: 5.5%;
+}
+.table th {
+    text-align: center;
+}
+.table {
+    margin-right: 20%;
+    font-family: 'Press Start 2P', cursive;
+}
+.table td {
+    text-align: center;
+}
